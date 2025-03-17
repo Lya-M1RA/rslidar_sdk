@@ -9,6 +9,7 @@ Added `airy_config.yaml` and `e1r_config.yaml`.
 RViz window in all launch files has been disabled by default.
 Added `airy_start.launch` and `e1r_start.launch`.
 ### 1.3 CMakeLists.txt
+In line 8, `Custom Point Type` has been changed to `XYZIRT`, `ring` and `timestamp` added.
 In line 48, `ENABLE_IMU_DATA_PARSE` has been turned on by default for imu messages.
 
 ## 2 Download
